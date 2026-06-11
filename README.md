@@ -57,7 +57,7 @@ Verifier session: read `sessions/verifier.md`
 Initialize a run directory first:
 
 ```bash
-./vibecoding-os/scripts/init-run.sh current
+./teamcodekun/scripts/init-run.sh current
 ```
 
 Use `protocols/run-directory.md` as the shared message board contract. Builder is the only default product-code writer. Verifier is read-only unless CEO authorizes a fix branch.

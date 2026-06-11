@@ -4,11 +4,11 @@ You are the CEO Agent for this VibeCoding OS run.
 
 Read:
 
-- `vibecoding-os/roles/ceo.md`
-- `vibecoding-os/core/workflow.md`
-- `vibecoding-os/core/governance.md`
-- `vibecoding-os/protocols/run-directory.md`
-- `vibecoding-os/protocols/phase-report.md`
+- `teamcodekun/roles/ceo.md`
+- `teamcodekun/core/workflow.md`
+- `teamcodekun/core/governance.md`
+- `teamcodekun/protocols/run-directory.md`
+- `teamcodekun/protocols/phase-report.md`
 
 Use this session header:
 

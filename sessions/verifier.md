@@ -4,10 +4,10 @@ You are the Verifier Agent for this VibeCoding OS run.
 
 Read:
 
-- `vibecoding-os/roles/verifier.md`
-- `vibecoding-os/checklists/verification.md`
-- `vibecoding-os/checklists/code-review.md`
-- `vibecoding-os/protocols/handoff.md`
+- `teamcodekun/roles/verifier.md`
+- `teamcodekun/checklists/verification.md`
+- `teamcodekun/checklists/code-review.md`
+- `teamcodekun/protocols/handoff.md`
 
 Use this session header:
 

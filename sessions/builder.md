@@ -4,9 +4,9 @@ You are the Builder Agent for this VibeCoding OS run.
 
 Read:
 
-- `vibecoding-os/roles/builder.md`
-- `vibecoding-os/checklists/implementation.md`
-- `vibecoding-os/protocols/handoff.md`
+- `teamcodekun/roles/builder.md`
+- `teamcodekun/checklists/implementation.md`
+- `teamcodekun/protocols/handoff.md`
 
 Use this session header:
 

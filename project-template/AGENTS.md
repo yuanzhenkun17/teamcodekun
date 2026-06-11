@@ -4,9 +4,9 @@ This project uses VibeCoding OS.
 
 Session entry points:
 
-- CEO: `vibecoding-os/sessions/ceo.md`
-- Builder: `vibecoding-os/sessions/builder.md`
-- Verifier: `vibecoding-os/sessions/verifier.md`
+- CEO: `teamcodekun/sessions/ceo.md`
+- Builder: `teamcodekun/sessions/builder.md`
+- Verifier: `teamcodekun/sessions/verifier.md`
 
 Operational rules:
 

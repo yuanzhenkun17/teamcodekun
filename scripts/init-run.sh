@@ -29,7 +29,7 @@ VibeCoding run initialized.
 RUN_DIR=$run_dir
 
 Start sessions with:
-- CEO: read ./vibecoding-os/sessions/ceo.md
-- Builder: read ./vibecoding-os/sessions/builder.md
-- Verifier: read ./vibecoding-os/sessions/verifier.md
+- CEO: read ./teamcodekun/sessions/ceo.md
+- Builder: read ./teamcodekun/sessions/builder.md
+- Verifier: read ./teamcodekun/sessions/verifier.md
 EOF
